@@ -11,8 +11,8 @@ database::database()
     // Establishing database connection
     db = QSqlDatabase::addDatabase("QMYSQL");
     db.setHostName("127.0.0.1");
-    db.setUserName("viviannie");
-    db.setPassword("loveyourselfirst");
+    db.setUserName("");
+    db.setPassword("");
     db.setDatabaseName("game");
     if (!db.open())
     {
