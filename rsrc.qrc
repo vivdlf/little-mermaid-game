@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+        <file>bullet.wav</file>
+        <file>gameover.wav</file>
+        <file>themeSong.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>enemy.png</file>
+        <file>player.png</file>
+        <file>bullet.png</file>
+        <file>bg.png</file>
+        <file>background.png</file>
+        <file>levelbg.png</file>
+        <file>tableViewBg.PNG</file>
+        <file>myScoreBoardBg.png</file>
+        <file>backgroundLogIn.png</file>
+        <file>backgroundLogInf.png</file>
+        <file>level1DialogBg.png</file>
+    </qresource>
+</RCC>
